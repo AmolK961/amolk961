@@ -6,59 +6,38 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080D,45:072A38,100:006D77&height=210&section=header&text=AMOL%20KHARAT&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=SENIOR%20SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%26%20GENERATIVE%20AI&descAlignY=60&descSize=15&descColor=35E0D0&animation=fadeIn" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=35E0D0&center=true&vCenter=true&width=850&lines=Architecting+High-Concurrency+Backend+Systems;Building+Production+RAG+%26+Agentic+AI+Workflows;Python+%7C+FastAPI+%7C+Microservices+%7C+Cloud;Turning+Complex+Ideas+Into+Scalable+Products" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080D,45:072A38,100:006D77&height=210&section=header&text=AMOL%20KHARAT&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SENIOR%20SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%26%20GENERATIVE%20AI&descAlignY=60&descSize=15&animation=fadeIn" alt="Amol Kharat Banner" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=35E0D0&center=true&vCenter=true&width=850&lines=Architecting+High-Concurrency+Backend+Systems;Building+Production+RAG+%26+Agentic+AI+Workflows;Python+%7C+FastAPI+%7C+Microservices+%7C+Cloud;Turning+Complex+Ideas+Into+Scalable+Products" alt="Typing Animation" />
+
+<br/><br/>
+
 <a href="https://amolkharat.pythonanywhere.com">
-  <img src="https://img.shields.io/badge/PORTFOLIO-35E0D0?style=for-the-badge&logo=googlechrome&logoColor=05080D" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-35E0D0?style=for-the-badge&logo=google-chrome&logoColor=05080D" alt="Portfolio" />
 </a>
-&nbsp;
 <a href="https://github.com/AmolK961">
-  <img src="https://img.shields.io/badge/GITHUB-111923?style=for-the-badge&logo=github&logoColor=35E0D0" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-0B1118?style=for-the-badge&logo=github&logoColor=35E0D0" alt="GitHub Profile" />
 </a>
-&nbsp;
-<img src="https://komarev.com/ghpvc/?username=AmolK961&label=VIEWS&color=087F8C&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=AmolK961&label=PROFILE%20VIEWS&color=087F8C&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
-<br/>
+---
 
 ## `01` / ABOUT ME
 
-I am a **Senior Software Engineer with 6+ years of experience** architecting scalable backend systems, multi-tenant SaaS platforms, and production-grade **Generative AI** applications.
+I am a **Senior Software Engineer with 6+ years of experience** architecting scalable backend applications, SaaS platforms, automation workflows, and **Generative AI** solutions.
 
-I specialize in bridging robust distributed backend engineering with modern LLM orchestration—focusing on low latency, high concurrency, and measurable business automation.
+I specialize in combining reliable distributed backend engineering with modern LLM orchestration—focused on low latency, high concurrency, and practical business impact.
 
-<br/>
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="250">
-      <h3>6+ YEARS</h3>
-      <sub>Production Backend & System Design</sub>
-    </td>
-    <td align="center" width="250">
-      <h3>10K+ DAILY</h3>
-      <sub>AI Conversations Scaled in Prod</sub>
-    </td>
-    <td align="center" width="250">
-      <h3>LOW LATENCY</h3>
-      <sub>Real-Time Voice & Async APIs</sub>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br/>
-
-- **Backend & Distributed Systems:** Designing asynchronous REST APIs, event-driven microservices, and high-throughput pipelines with **Python, FastAPI, and Flask**.
-- **Generative AI & Agentic Workflows:** Engineering retrieval-augmented generation (**RAG**), tool-calling **AI Agents**, and multi-step orchestration using **LangGraph, LangChain, LlamaIndex, and OpenAI**.
-- **Data & Vector Infrastructure:** Structuring relational, NoSQL, caching, and semantic search layers across **PostgreSQL, MongoDB, Redis, Pinecone, and FAISS**.
-- **Real-Time & Cloud Deployment:** Building bidirectional **WebSocket** voice systems and containerized deployments on **AWS, GCP, and Docker**.
+- **6+ Years Experience** — Production backend systems, API design, and cloud deployment.
+- **10K+ Daily AI Conversations** — Scaled real-world GenAI workflows with low response latency.
+- **Backend & Async Systems** — **Python, FastAPI, Flask**, REST APIs, microservices, and WebSockets.
+- **Generative AI & Agents** — **RAG pipelines, AI Agents**, **LangGraph, LangChain, LlamaIndex**, and **OpenAI**.
+- **Databases & Vector Search** — **PostgreSQL, MongoDB, MySQL, Redis**, **Pinecone**, and **FAISS**.
+- **Cloud & Full Stack** — **AWS, GCP, Docker, Linux, Git, Jenkins**, **React**, and **Angular**.
 
 ---
 
@@ -66,31 +45,25 @@ I specialize in bridging robust distributed backend engineering with modern LLM 
 
 <div align="center">
 
-#### BACKEND & CORE LANGUAGES
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,js&theme=dark" />
+### Backend & Programming
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,js&theme=dark" alt="Backend Stack" />
 
-<br/>
+### Generative AI & Intelligent Systems
+<img src="https://img.shields.io/badge/OPENAI-0B1118?style=for-the-badge&labelColor=087F8C" alt="OpenAI" />
+<img src="https://img.shields.io/badge/LANGCHAIN-0B1118?style=for-the-badge&labelColor=087F8C" alt="LangChain" />
+<img src="https://img.shields.io/badge/LANGGRAPH-0B1118?style=for-the-badge&labelColor=087F8C" alt="LangGraph" />
+<img src="https://img.shields.io/badge/LLAMAINDEX-0B1118?style=for-the-badge&labelColor=087F8C" alt="LlamaIndex" />
+<img src="https://img.shields.io/badge/RAG_PIPELINES-0B1118?style=for-the-badge&labelColor=087F8C" alt="RAG" />
+<img src="https://img.shields.io/badge/AI_AGENTS-0B1118?style=for-the-badge&labelColor=087F8C" alt="AI Agents" />
 
-#### GENERATIVE AI & ORCHESTRATION
-<img src="https://img.shields.io/badge/OPENAI-0B1118?style=for-the-badge&logo=openai&logoColor=35E0D0" />
-<img src="https://img.shields.io/badge/LANGCHAIN-0B1118?style=for-the-badge&logo=chainlink&logoColor=35E0D0" />
-<img src="https://img.shields.io/badge/LANGGRAPH-0B1118?style=for-the-badge&logo=graphql&logoColor=35E0D0" />
-<img src="https://img.shields.io/badge/LLAMAINDEX-0B1118?style=for-the-badge&logo=databricks&logoColor=35E0D0" />
-<img src="https://img.shields.io/badge/RAG_PIPELINES-087F8C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AGENTIC_AI-087F8C?style=for-the-badge" />
+### Databases & Vector Search
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" alt="Databases" />
+<br/><br/>
+<img src="https://img.shields.io/badge/PINECONE-0B1118?style=for-the-badge&labelColor=006D77" alt="Pinecone" />
+<img src="https://img.shields.io/badge/FAISS-0B1118?style=for-the-badge&labelColor=006D77" alt="FAISS" />
 
-<br/>
-
-#### DATABASES & VECTOR SEARCH
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/PINECONE-0B1118?style=for-the-badge&logo=pinecone&logoColor=35E0D0" />
-<img src="https://img.shields.io/badge/FAISS-0B1118?style=for-the-badge&logo=meta&logoColor=35E0D0" />
-
-<br/>
-
-#### CLOUD, DEVOPS & FRONTEND
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,jenkins,react,angular&theme=dark" />
+### Cloud, DevOps & Frontend
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,jenkins,react,angular&theme=dark" alt="Cloud and Frontend Stack" />
 
 </div>
 
@@ -98,52 +71,31 @@ I specialize in bridging robust distributed backend engineering with modern LLM 
 
 ## `03` / FEATURED ENGINEERING PROJECTS
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 / SMARTSHOP AI</h3>
-      <b>Generative AI SaaS Platform</b><br/><br/>
-      <kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>OpenAI</kbd> <kbd>RAG</kbd> <kbd>Pinecone</kbd>
-      <ul>
-        <li>Architected an AI product discovery and recommendation engine powered by hybrid RAG pipelines.</li>
-        <li>Built asynchronous FastAPI microservices supporting multi-tenant isolation and RBAC.</li>
-        <li>Scaled system reliability to handle <b>10K+ daily AI conversations</b> with low response latency.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 / REAL-TIME AI VOICE PLATFORM</h3>
-      <b>AI Voice Lead Generation & Automation</b><br/><br/>
-      <kbd>FastAPI</kbd> <kbd>Twilio</kbd> <kbd>Bolna AI</kbd> <kbd>WebSockets</kbd> <kbd>React</kbd>
-      <ul>
-        <li>Engineered inbound and outbound AI voice agents for automated lead qualification.</li>
-        <li>Implemented full-duplex WebSocket streaming for sub-second conversational turn-taking.</li>
-        <li>Integrated automated CRM syncing, call state tracking, and real-time analytics dashboards.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>03 / AI NEWS AUTOMATION</h3>
-      <b>End-to-End Content & Video Pipeline</b><br/><br/>
-      <kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>TTS</kbd> <kbd>MoviePy</kbd> <kbd>Automation</kbd>
-      <ul>
-        <li>Built an automated ETL pipeline for ingesting, classifying, and summarizing news feeds.</li>
-        <li>Automated text-to-speech narration and dynamic video rendering workflows via MoviePy.</li>
-        <li>Eliminated manual editing bottlenecks with structured state tracking and batch scheduling.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>04 / LOCAL GENERATIVE AI</h3>
-      <b>Privacy-First Local LLM Engine</b><br/><br/>
-      <kbd>Python</kbd> <kbd>Ollama</kbd> <kbd>LangChain</kbd> <kbd>Flask</kbd>
-      <ul>
-        <li>Deployed self-hosted open-weight language models for zero-data-leakage inference.</li>
-        <li>Built modular LangChain conversational memory and document QA workflows.</li>
-        <li>Exposed local inference endpoints through lightweight RESTful backend services.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 01 / SmartShop AI — Generative AI SaaS Platform
+<kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>OpenAI</kbd> <kbd>RAG</kbd> <kbd>Pinecone</kbd> <kbd>Microservices</kbd>
+
+- Built an AI-powered product assistance and recommendation platform using RAG and vector retrieval.
+- Developed asynchronous FastAPI microservices with multi-tenant architecture, RBAC, and analytics.
+- Supported **10K+ daily AI conversations** with reliable throughput.
+
+### 02 / Real-Time AI Voice Platform — Voice Lead Generation & Automation
+<kbd>FastAPI</kbd> <kbd>Twilio</kbd> <kbd>Bolna AI</kbd> <kbd>WebSockets</kbd> <kbd>React</kbd>
+
+- Engineered inbound and outbound AI calling workflows with real-time WebSocket communication.
+- Built lead capture, qualification, CRM API integrations, and live monitoring dashboards.
+- Optimized concurrent call sessions for low-latency voice interactions.
+
+### 03 / AI News Automation — Automated Content & Video Generation
+<kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Excel</kbd> <kbd>TTS</kbd> <kbd>MoviePy</kbd>
+
+- Automated news ingestion, categorization, and publishing status tracking.
+- Built automated audio narration and video generation pipelines in Python.
+
+### 04 / Local Generative AI — Local LLM Application
+<kbd>Python</kbd> <kbd>Ollama</kbd> <kbd>LangChain</kbd> <kbd>Flask</kbd>
+
+- Hosted and integrated local open-weight language models for conversational workflows.
+- Connected local LLM inference cleanly with backend services.
 
 ---
 
@@ -162,54 +114,50 @@ I specialize in bridging robust distributed backend engineering with modern LLM 
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center">
-      <img height="175" src="https://github-readme-stats.vercel.app/api?username=AmolK961&show_icons=true&hide_border=true&bg_color=05080D&title_color=35E0D0&icon_color=35E0D0&text_color=C9D7E3&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolK961&layout=compact&hide_border=true&bg_color=05080D&title_color=35E0D0&text_color=C9D7E3" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmolK961&show_icons=true&hide_border=true&bg_color=05080D&title_color=35E0D0&icon_color=35E0D0&text_color=C9D7E3" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolK961&layout=compact&hide_border=true&bg_color=05080D&title_color=35E0D0&text_color=C9D7E3" alt="Top Languages" />
+
+<br/><br/>
 
 <img width="85%" src="https://streak-stats.demolab.com?user=AmolK961&hide_border=true&background=05080D&ring=35E0D0&fire=00AFC1&currStreakLabel=35E0D0&sideLabels=C9D7E3&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8495A5" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/AmolK961/AmolK961/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake animation" />
+<img src="https://raw.githubusercontent.com/AmolK961/AmolK961/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
 ---
 
-## `06` / CURRENT FOCUS & CONNECT
+## `06` / CURRENT INTERESTS & CONNECT
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MULTI--AGENT_SYSTEMS-0B1118?style=for-the-badge&logo=openai&logoColor=35E0D0" />
-<img src="https://img.shields.io/badge/HYBRID_RAG_&_EVALS-0B1118?style=for-the-badge&logo=databricks&logoColor=35E0D0" />
-<img src="https://img.shields.io/badge/DISTRIBUTED_SYSTEMS-0B1118?style=for-the-badge&logo=kubernetes&logoColor=35E0D0" />
-<img src="https://img.shields.io/badge/CLOUD_ARCHITECTURE-0B1118?style=for-the-badge&logo=amazonaws&logoColor=35E0D0" />
+<img src="https://img.shields.io/badge/AGENTIC_AI-0B1118?style=for-the-badge&labelColor=087F8C" alt="Agentic AI" />
+<img src="https://img.shields.io/badge/ADVANCED_RAG-0B1118?style=for-the-badge&labelColor=087F8C" alt="Advanced RAG" />
+<img src="https://img.shields.io/badge/AI_AUTOMATION-0B1118?style=for-the-badge&labelColor=087F8C" alt="AI Automation" />
+<img src="https://img.shields.io/badge/DISTRIBUTED_SYSTEMS-0B1118?style=for-the-badge&labelColor=087F8C" alt="Distributed Systems" />
+<img src="https://img.shields.io/badge/CLOUD_ARCHITECTURE-0B1118?style=for-the-badge&labelColor=087F8C" alt="Cloud Architecture" />
 
 <br/><br/>
 
-**Open to high-impact backend architecture roles, AI engineering collaborations, and technical consulting.**
+**Open to impactful backend engineering roles, GenAI collaborations, and technical discussions.**
 
 <br/>
 
 <a href="https://amolkharat.pythonanywhere.com">
-  <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-35E0D0?style=for-the-badge&logo=googlechrome&logoColor=05080D" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-35E0D0?style=for-the-badge&logo=google-chrome&logoColor=05080D" alt="Explore Portfolio" />
 </a>
-&nbsp;
 <a href="https://github.com/AmolK961">
-  <img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-111923?style=for-the-badge&logo=github&logoColor=35E0D0" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-0B1118?style=for-the-badge&logo=github&logoColor=35E0D0" alt="GitHub" />
 </a>
 
 <br/><br/>
 
-### ENGINEER WITH PURPOSE · BUILD FOR SCALE
+**ENGINEER WITH PURPOSE · BUILD FOR SCALE**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006D77,50:072A38,100:05080D&height=120&section=footer" />
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:006D77,50:072A38,100:05080D&height=120&section=footer" alt="Footer Banner" />
 
 </div>
