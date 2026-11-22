@@ -5,8 +5,7 @@
 =========================================================== -->
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080D,45:072A38,100:006D77&height=210&section=header&text=AMOL%20KHARAT&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SENIOR%20SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%26%20GENERATIVE%20AI&descAlignY=60&descSize=15&animation=fadeIn" alt="Amol Kharat Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:05080D,45:072A38,100:006D77&height=210&section=header&text=AMOL%20KHARAT&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=SENIOR%20SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%C2%B7%20GENERATIVE%20AI&descAlignY=60&descSize=15&animation=fadeIn" alt="Amol Kharat Banner" />
 
 <br/>
 
