@@ -1,19 +1,27 @@
- <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,45:650000,75:BD8A32,100:080808&height=220&section=header&text=AMOL%20KHARAT&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20GENERATIVE%20AI&descAlignY=60&descSize=17&animation=fadeIn" width="100%" />
+<!-- =========================================================
+     AMOL KHARAT | GITHUB PROFILE README
+     Theme: Premium Black / Crimson / Gold / Cyan
+========================================================== -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=E5B85C&center=true&vCenter=true&width=800&lines=Python+Backend+Engineer;Generative+AI+%7C+RAG+%7C+AI+Agents;FastAPI+%7C+Microservices+%7C+Cloud;Building+Intelligent+Software+Systems" />
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:420909,70:8B1E1E,100:C9A227&height=230&section=header&text=AMOL%20KHARAT&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%7C%20GENERATIVE%20AI&descAlignY=60&descSize=16&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=E5B85C&center=true&vCenter=true&width=850&lines=Python+Backend+Engineer;Generative+AI+%7C+RAG+%7C+AI+Agents;FastAPI+%7C+Microservices+%7C+Cloud;Building+Intelligent+Software+Systems;Turning+Ideas+Into+Scalable+Products" />
 
 <br/>
 
 <a href="https://amolkharat.pythonanywhere.com">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-C9A227?style=for-the-badge&logo=googlechrome&logoColor=black" />
+<img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-C9A227?style=for-the-badge&logo=googlechrome&logoColor=black" />
 </a>
 <a href="https://github.com/AmolK961">
 <img src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=AmolK961&label=PROFILE%20VISITORS&color=9B1C1C&style=flat-square" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=AmolK961&label=PROFILE%20VISITORS&color=9B1C1C&style=for-the-badge" />
 
 </div>
 
@@ -21,26 +29,28 @@
 
 ## ◈ ABOUT ME
 
-I'm a Software Engineer with **6+ years of experience** designing and developing scalable backend applications, intelligent automation systems, SaaS platforms, and Generative AI solutions.
+I'm a **Software Engineer with 6+ years of experience** building scalable backend applications, intelligent automation systems, SaaS platforms, and Generative AI solutions.
 
-My focus is on building reliable software that combines backend engineering with practical AI capabilities.
+I specialize in combining strong backend engineering with modern AI technologies to create reliable, production-ready applications.
 
-- **Backend Engineering:** Python, FastAPI, Flask, REST APIs, Microservices
-- **Generative AI:** RAG, LLM applications, AI Agents, Agentic AI
-- **AI Frameworks:** LangChain, LangGraph, LlamaIndex, OpenAI
-- **Databases:** PostgreSQL, MongoDB, MySQL, Redis, Pinecone, FAISS
-- **Cloud & DevOps:** AWS, GCP, Docker, CI/CD
-- **Frontend:** React.js, Angular, JavaScript
+- 🐍 Backend development using **Python, FastAPI, and Flask**
+- 🤖 Building **Generative AI, RAG systems, and AI Agents**
+- ⚙️ Designing **REST APIs, Microservices, and Async Systems**
+- 🧠 Working with **LLMs, Vector Databases, and AI Frameworks**
+- ☁️ Building cloud-ready applications using **AWS, GCP, and Docker**
+- 🔗 Integrating AI solutions with real-world business applications
+
+**Engineering philosophy:** Build scalable systems, automate intelligently, and solve real-world problems.
 
 ---
 
-## ◈ TECHNOLOGY UNIVERSE
+## ◈ TECHNICAL ARSENAL
 
 <div align="center">
 
-### BACKEND ENGINEERING
+### BACKEND & PROGRAMMING
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,nodejs,express,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,fastapi,flask,nodejs,express&theme=dark" />
 
 ### GENERATIVE AI & INTELLIGENT SYSTEMS
 
@@ -49,17 +59,19 @@ My focus is on building reliable software that combines backend engineering with
 <img src="https://img.shields.io/badge/LANGGRAPH-252525?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LLAMAINDEX-6B4EFF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/RAG-8E2424?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_AGENTS-C9A227?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/AI_AGENTS-C9A227?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AGENTIC_AI-7B61FF?style=for-the-badge" />
 
 ### DATABASES & VECTOR SEARCH
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
+<br/>
 <img src="https://img.shields.io/badge/PINECONE-008F78?style=for-the-badge" />
 <img src="https://img.shields.io/badge/FAISS-1465B4?style=for-the-badge" />
 
-### CLOUD, DEVOPS & FRONTEND
+### FRONTEND, CLOUD & DEVOPS
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git,github,jenkins,react,angular&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,aws,gcp,docker,linux,git,github,jenkins&theme=dark" />
 
 </div>
 
@@ -70,37 +82,39 @@ My focus is on building reliable software that combines backend engineering with
 ### 01 / SMARTSHOP AI
 **Generative AI SaaS Platform**
 
-`Python` `FastAPI` `OpenAI` `RAG` `Pinecone` `Microservices`
+<kbd>Python</kbd> <kbd>FastAPI</kbd> <kbd>OpenAI</kbd> <kbd>RAG</kbd> <kbd>Pinecone</kbd> <kbd>Microservices</kbd>
 
 - Developed an AI-powered product assistance and recommendation platform.
 - Implemented RAG workflows with vector search and OpenAI.
-- Built asynchronous FastAPI microservices.
+- Built asynchronous FastAPI microservices for high concurrency.
 - Designed multi-tenant workflows, RBAC, and analytics.
-- Platform supporting **10K+ daily AI conversations**.
+- Supported **10K+ daily AI conversations**.
 
 ### 02 / REAL-TIME AI VOICE PLATFORM
 **AI Voice Lead Generation & Automation**
 
-`FastAPI` `Twilio` `Bolna AI` `WebSockets` `React`
+<kbd>FastAPI</kbd> <kbd>Twilio</kbd> <kbd>Bolna AI</kbd> <kbd>WebSockets</kbd> <kbd>React</kbd>
 
 - Developed inbound and outbound AI calling workflows.
 - Built real-time communication and concurrent call handling.
 - Integrated lead capture, qualification, and CRM APIs.
 - Developed monitoring and analytics dashboards.
+- Focused on low-latency voice interactions.
 
 ### 03 / AI NEWS AUTOMATION
 **Automated Content & Video Generation**
 
-`Python` `Pandas` `Excel` `TTS` `MoviePy`
+<kbd>Python</kbd> <kbd>Pandas</kbd> <kbd>Excel</kbd> <kbd>TTS</kbd> <kbd>MoviePy</kbd>
 
 - Automated news content processing and categorization.
 - Created audio and video generation workflows.
 - Organized publishing data and processing statuses.
+- Developed automation workflows for content production.
 
 ### 04 / LOCAL GENERATIVE AI
 **Local LLM Application**
 
-`Python` `Ollama` `LangChain` `Flask`
+<kbd>Python</kbd> <kbd>Ollama</kbd> <kbd>LangChain</kbd> <kbd>Flask</kbd>
 
 - Explored locally hosted language models.
 - Developed conversational AI workflows.
@@ -127,7 +141,19 @@ My focus is on building reliable software that combines backend engineering with
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmolK961&layout=compact&theme=transparent&title_color=E5B85C&text_color=FFFFFF&border_color=652323" />
 
+<br/>
+
 <img width="90%" src="https://streak-stats.demolab.com?user=AmolK961&theme=dark&background=080808&ring=C9A227&fire=BD4545&currStreakLabel=E5B85C&sideLabels=FFFFFF&border=652323" />
+
+</div>
+
+---
+
+## ◈ CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/AmolK961/AmolK961/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
 
 </div>
 
@@ -137,24 +163,37 @@ My focus is on building reliable software that combines backend engineering with
 
 <div align="center">
 
-`Agentic AI` &nbsp; `Advanced RAG` &nbsp; `AI Automation`
-
-`Distributed Systems` &nbsp; `Scalable APIs` &nbsp; `Cloud Architecture`
+<img src="https://img.shields.io/badge/AGENTIC_AI-8B1E1E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ADVANCED_RAG-C9A227?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_AUTOMATION-00A896?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DISTRIBUTED_SYSTEMS-303F9F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CLOUD_ARCHITECTURE-1565C0?style=for-the-badge" />
 
 </div>
 
 ---
 
+## ◈ LET'S CONNECT
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:650000,100:BD8A32&height=3&section=footer" width="100%" />
+<a href="https://amolkharat.pythonanywhere.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-C9A227?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+<a href="https://github.com/AmolK961">
+<img src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**Open to interesting engineering challenges and meaningful collaborations.**
 
 ### BUILD. AUTOMATE. INNOVATE.
 
 *Engineering intelligent solutions for real-world problems.*
 
-<a href="https://amolkharat.pythonanywhere.com">PORTFOLIO</a> · <a href="https://github.com/AmolK961">GITHUB</a>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:650000,100:BD8A32&height=100&section=footer" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:420909,70:8B1E1E,100:C9A227&height=120&section=footer" />
 
 </div>
